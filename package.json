@@ -1,0 +1,18 @@
+{
+  "name": "vista-con-express",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "nodex index.js"
+  },
+  "author": "Iris",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
